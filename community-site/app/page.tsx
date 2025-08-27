@@ -25,7 +25,7 @@ export default function HomePage() {
             </div>
             <Button
               className="bg-blue-600 hover:bg-blue-700 text-white"
-              onClick={() => window.open("https://discord.gg/9rDnDmw6", "_blank")}
+              onClick={() => window.open("https://discord.gg/QFRc3cXAqP", "_blank")}
             >
               Join Community
             </Button>
@@ -59,7 +59,7 @@ export default function HomePage() {
           <Button
             size="lg"
             className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white text-lg px-8 py-4"
-            onClick={() => window.open("https://discord.gg/9rDnDmw6", "_blank")}
+            onClick={() => window.open("https://discord.gg/QFRc3cXAqP", "_blank")}
           >
             Join Us Today!
             <ArrowRight className="ml-2 h-5 w-5" />
@@ -299,7 +299,7 @@ export default function HomePage() {
             <Button
               size="lg"
               className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white text-lg px-8 py-4 w-full sm:w-auto"
-              onClick={() => window.open("https://discord.gg/9rDnDmw6", "_blank")}
+              onClick={() => window.open("https://discord.gg/QFRc3cXAqP", "_blank")}
             >
               Join Us Today!
               <ArrowRight className="ml-2 h-5 w-5" />

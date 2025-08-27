@@ -1,16 +1,10 @@
 {
   "hosting": {
-    "public": "community-site/.next/static",
+    "public": "community-site/out",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
