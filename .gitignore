@@ -70,3 +70,4 @@ node_modules/
 
 # next files
 .next
+*/out/**

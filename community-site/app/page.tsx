@@ -62,7 +62,7 @@ export default function HomePage() {
           <div className="container mx-auto px-4 pb-8 flex justify-center">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 justify-items-center">
               <iframe
-                src="https://aicards.io/embed/cardchat/a797c05d-9fbb-4465-9123-7a48496c0327"
+                src="https://aicards.io/embed/cardchat/5d4793a3-0b85-4b04-9dec-a43d463120f3"
                 style={{
                   border: 0,
                   width: "319px",
@@ -74,7 +74,7 @@ export default function HomePage() {
                 scrolling="no"
               />
               <iframe
-                src="https://aicards.io/embed/cardchat/49484639-629e-4138-a9b0-fbdd1e58c0c3"
+                src="https://aicards.io/embed/cardchat/00809817-3757-4a2e-b29f-494950a5134a"
                 style={{
                   border: 0,
                   width: "319px",
