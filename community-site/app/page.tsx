@@ -62,7 +62,7 @@ export default function HomePage() {
           <div className="container mx-auto px-4 pb-8 flex justify-center">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 justify-items-center">
               <iframe
-                src="https://aicards.io/embed/cardchat/5d4793a3-0b85-4b04-9dec-a43d463120f3"
+                src="https://aicards.io/embed/cardchat/c3a079eb-3d79-4144-b141-db7106948f95"
                 style={{
                   border: 0,
                   width: "319px",
